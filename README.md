@@ -1,14 +1,6 @@
-# viajou
-  Projeto Acadêmico da matéria H0 - SCRUM, MVC, GIT e H1 - Consumo de API realizado em grupo para atribuir nota ao segundo semestre do Curso Técnico de Desenvolvimento de Sistemas do Senai.
+# VIAJOU
 
 **Site:** [**https://equipe-777.github.io/viajou/viajou/index.html**](https://equipe-777.github.io/viajou/viajou/index.html)
-
-  **Atividade Solicitada por: Professor Atila Andreatti Olivi, da turma 2DM.**
-
-&nbsp;
-
-
-# VIAJOU
 
 Criado a partir de uma sátira com a ambiguidade presente em seu nome, Viajou é um site sobre curiosidades culturais, cotações e viagens para outros países, criado em conjunto pela Equipe de desenvolvimento 777 da turma 2DM do SENAI.
 
